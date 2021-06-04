@@ -1,0 +1,41 @@
+.register {
+    justify-content: center;
+    align-items: center;
+    background-image: url('https://th.bing.com/th/id/OIP.2GxtGXC6l1PUn00GvXaZfwAAAA?w=121&h=180&c=7&o=5&dpr=1.5&pid=1.7');
+    background-position-x: right;
+    background-position-y: center;
+    background-repeat: no-repeat;
+    background-size: 40%vh;
+}
+
+.register-form {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 30vw;
+    height: 30vh;
+    margin: auto;
+}
+
+.btn-register {
+    padding-top: 3%;
+    align-self: center;
+}
+
+.msg-1 {
+    padding-top: 5%;
+    color: rgb(236, 78, 78);
+    display: block;
+    justify-content: center;
+    align-self: center;
+}
+
+.msg-2 {
+    padding-top: 5%;
+    align-self: center;
+}
+
+.btn-itself {
+    background-color: green;
+}

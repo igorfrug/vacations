@@ -1,0 +1,26 @@
+    * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+        font-family: "Roboto", sans-serif;
+    }
+    
+    .header {
+        margin-top: 0vh;
+        position: fixed;
+        z-index: 20;
+    }
+    
+    .login,
+    .register,
+    .form {
+        padding-top: 10%;
+        height: 95vh;
+        display: flex;
+        justify-items: center;
+        align-items: center;
+    }
+    
+    button {
+        background-color: rgb(16, 187, 16) !important;
+    }

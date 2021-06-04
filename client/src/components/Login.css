@@ -1,0 +1,26 @@
+.login {
+    justify-content: center;
+    align-items: center;
+    background-image: url('https://th.bing.com/th/id/OIP.2GxtGXC6l1PUn00GvXaZfwAAAA?w=121&h=180&c=7&o=5&dpr=1.5&pid=1.7');
+    background-position-x: right;
+    background-position-y: bottom;
+    background-repeat: no-repeat;
+    background-size: 20%;
+}
+
+.login-form {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+    width: 30vw;
+    height: 30vh;
+    margin: auto;
+    padding-top: 0;
+}
+
+.btn-login {
+    padding: 3%;
+    align-self: center;
+    color: green;
+}

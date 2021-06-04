@@ -1,0 +1,48 @@
+@media only screen and (min-width: 1200px) {
+    .admin-cards {
+        margin-top: 5%;
+        padding-left: 2%;
+        z-index: 1;
+        width: 100vw;
+        display: flex;
+        flex-wrap: wrap;
+        padding-right: 2%;
+    }
+    .admin-grid {
+        overflow: scroll;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-around;
+        overflow: auto;
+        margin-right: 2%;
+    }
+    .add,
+    h2 {
+        padding-left: 2%;
+    }
+}
+
+@media only screen and (max-width: 1200px) {
+    .admin-cards {
+        margin-top: 15%;
+        padding-left: 2%;
+        padding-right: 2%;
+        z-index: 1;
+        width: 100vw;
+        display: flex;
+        flex-wrap: wrap;
+        margin-right: 2%;
+    }
+    .admin-grid {
+        overflow: scroll;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-around;
+        overflow: auto;
+        margin-right: 2%;
+    }
+    .add,
+    h2 {
+        padding-left: 2%;
+    }
+}
