@@ -10,7 +10,7 @@ React hooks, Redux, Material-UI, CSS 3.
 ### Server side:
 Node js,Express,MySQL
 
-### to clone https://github.come/igorfrug/VACATION
+### to clone https://github.come/igorfrug/vacations
 cd server ->nodemon
 
 cd client -> npm start
